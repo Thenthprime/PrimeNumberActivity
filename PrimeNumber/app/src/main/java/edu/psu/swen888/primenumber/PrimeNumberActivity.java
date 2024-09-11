@@ -22,8 +22,10 @@ public class PrimeNumberActivity extends AppCompatActivity  {
         mCheckIfPrimeButton = findViewById(R.id.check_button);
     }
 
-    public boolean checkIfPrim(int number){
+
+    public boolean checkIfPrime(int number){
         return true;
     }
+
 
 }
